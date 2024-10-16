@@ -6,7 +6,7 @@ vi .gitconfig
 ```
 
 
-```bash
+```git
 [user]
 email = example@mail.com
 name = example
