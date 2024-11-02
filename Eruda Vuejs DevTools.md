@@ -1,5 +1,7 @@
 ### How to enable Vuejs Dev Tools in Android/iOS 📱 mobile phone.
+
 following this code:
+
 ```js
 javascript:(function () {
     var script = document.createElement("script");
