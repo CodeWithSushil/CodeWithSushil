@@ -23,7 +23,7 @@
 <a href="https://github.com/CodeWithSushil">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSushil&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
-
+A dedicated and self-taught web developer with expertise in PHP, JavaScript/Node.js, and a deep enthusiasm for exploring diverse frameworks and libraries. I am committed to collaborative teamwork and actively contribute to open-source projects, fostering innovation, growth, and knowledge sharing within the developer community.
 <!---
 - 👋 Hi, I’m @CodeWithSushil
 - 👀 I’m interested in ...
