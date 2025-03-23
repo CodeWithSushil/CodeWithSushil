@@ -6,7 +6,7 @@ touch .gitconfig
 ```
 
 
-```conf
+```cnf
 [user]
 email = example@mail.com
 name = example
