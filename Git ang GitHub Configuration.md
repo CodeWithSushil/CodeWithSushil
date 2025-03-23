@@ -18,3 +18,13 @@ directory = project path
 [credential]
 helper = store
 ```
+
+### Git and GitHub config (with Token)
+```bash
+touch .git-credentials
+vi .git-credentials
+```
+
+```cnf
+https://username:ghp_token@github.com
+```
