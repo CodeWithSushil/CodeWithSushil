@@ -20,11 +20,11 @@ helper = store
 ```
 
 ### Git and GitHub config (with Token)
-```bash
+```zsh
 touch .git-credentials
 vi .git-credentials
 ```
 
-```cnf
+```vim
 https://username:ghp_token@github.com
 ```
