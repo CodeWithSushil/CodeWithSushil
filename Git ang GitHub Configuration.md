@@ -2,11 +2,11 @@
 * Git configuration on your local system.
 
 ```bash
-vi .gitconfig
+touch .gitconfig
 ```
 
 
-```git
+```conf
 [user]
 email = example@mail.com
 name = example
