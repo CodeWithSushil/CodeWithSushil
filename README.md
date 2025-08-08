@@ -24,6 +24,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSushil&bg_color=0000000&color=0579C3&line=0579C3&point=417E87&area_color=006AFF&area=true&hide_border=true" />
 </a>
 A dedicated and self-taught web developer with expertise in PHP, JavaScript/Node.js, and a deep enthusiasm for exploring diverse frameworks and libraries. I am committed to collaborative teamwork and actively contribute to open-source projects, fostering innovation, growth, and knowledge sharing within the developer community.
+
+---
+![Total Installs](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=blue&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.foxdebug.acodefree%26gl%3DUS%26hl%3Den%26l%3DAndroid%26m%3D%255BVersion%253A%24version%255D%2520%255BDownloads%253A%2520%2524totalinstalls%255D)
+---
 <!---
 - 👋 Hi, I’m @CodeWithSushil
 - 👀 I’m interested in ...
