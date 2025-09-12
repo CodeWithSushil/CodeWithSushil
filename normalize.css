@@ -1,0 +1,359 @@
+/* ==========================================================================
+   Modern CSS Reset with Legacy Browser Support
+   ========================================================================== */
+
+/* Box sizing reset - IE8+ */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* IE6/7 box-sizing fallback */
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+/* Remove default margins and padding */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* Root and body setup */
+html {
+  /* Modern browsers: smooth scrolling */
+  scroll-behavior: smooth;
+  /* IE/Edge: text size adjust */
+  -ms-text-size-adjust: 100%;
+  /* iOS Safari: prevent zoom on orientation change */
+  -webkit-text-size-adjust: 100%;
+  /* Set base font size for rem calculations */
+  font-size: 100%; /* 16px default */
+}
+
+body {
+  /* Modern typography stack with fallbacks */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, 
+               "Helvetica Neue", Arial, sans-serif, 
+               "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  
+  /* Baseline typography */
+  font-size: 1rem;
+  line-height: 1.5;
+  
+  /* Text rendering optimizations */
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  /* Color and background */
+  color: #333;
+  background-color: #fff;
+  
+  /* Remove body margin in older browsers */
+  margin: 0;
+  padding: 0;
+  
+  /* Better text overflow handling */
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
+
+/* Remove list styles */
+ul, ol {
+  list-style: none;
+}
+
+/* Table reset */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* Form elements reset */
+input, button, textarea, select {
+  font: inherit;
+  color: inherit;
+}
+
+/* Button reset */
+button {
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+/* Link reset */
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+/* Image and media reset */
+img, picture, video, canvas, svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+/* IE8 image scaling fix */
+img {
+  -ms-interpolation-mode: bicubic;
+}
+
+/* Remove border on linked images in IE10- */
+a img {
+  border: 0;
+}
+
+/* Hidden attribute support for IE10- */
+[hidden] {
+  display: none !important;
+}
+
+/* Focus outline reset for accessibility */
+:focus {
+  outline: 2px solid #0066cc;
+  outline-offset: 2px;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* IE10+ focus outline fallback */
+:-ms-input-placeholder {
+  color: #999;
+}
+
+/* Remove dotted outline in Firefox */
+::-moz-focus-inner {
+  border: 0;
+  padding: 0;
+}
+
+/* ==========================================================================
+   Typography System with Legacy Support
+   ========================================================================== */
+
+/* CSS Custom Properties with IE fallbacks */
+:root {
+  /* Font sizes - with pixel fallbacks for IE */
+  --font-size-xs: 0.75rem;    /* 12px */
+  --font-size-sm: 0.875rem;   /* 14px */
+  --font-size-base: 1rem;     /* 16px */
+  --font-size-lg: 1.125rem;   /* 18px */
+  --font-size-xl: 1.25rem;    /* 20px */
+  --font-size-2xl: 1.5rem;    /* 24px */
+  --font-size-3xl: 1.875rem;  /* 30px */
+  --font-size-4xl: 2.25rem;   /* 36px */
+  --font-size-5xl: 3rem;      /* 48px */
+  
+  /* Font weights */
+  --font-weight-light: 300;
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  
+  /* Line heights */
+  --line-height-tight: 1.25;
+  --line-height-normal: 1.5;
+  --line-height-loose: 1.75;
+  
+  /* Letter spacing */
+  --letter-spacing-tight: -0.025em;
+  --letter-spacing-normal: 0;
+  --letter-spacing-wide: 0.025em;
+}
+
+/* Headings with progressive enhancement */
+h1, h2, h3, h4, h5, h6 {
+  /* IE fallbacks */
+  font-weight: 700;
+  line-height: 1.25;
+  color: #1a1a1a;
+  margin-bottom: 0.5em;
+  
+  /* Modern browsers */
+  font-weight: var(--font-weight-bold, 700);
+  line-height: var(--line-height-tight, 1.25);
+  letter-spacing: var(--letter-spacing-tight, -0.025em);
+}
+
+h1 {
+  /* IE fallback */
+  font-size: 2.25rem; /* 36px */
+  /* Modern browsers with fluid scaling */
+  font-size: var(--font-size-4xl, 2.25rem);
+  font-size: clamp(1.875rem, 4vw, 3rem);
+}
+
+h2 {
+  font-size: 1.875rem; /* 30px */
+  font-size: var(--font-size-3xl, 1.875rem);
+  font-size: clamp(1.5rem, 3.5vw, 2.25rem);
+}
+
+h3 {
+  font-size: 1.5rem; /* 24px */
+  font-size: var(--font-size-2xl, 1.5rem);
+  font-size: clamp(1.25rem, 3vw, 1.875rem);
+}
+
+h4 {
+  font-size: 1.25rem; /* 20px */
+  font-size: var(--font-size-xl, 1.25rem);
+  font-size: clamp(1.125rem, 2.5vw, 1.5rem);
+}
+
+h5 {
+  font-size: 1.125rem; /* 18px */
+  font-size: var(--font-size-lg, 1.125rem);
+}
+
+h6 {
+  font-size: 1rem; /* 16px */
+  font-size: var(--font-size-base, 1rem);
+  font-weight: var(--font-weight-semibold, 600);
+}
+
+/* Body text and paragraphs */
+p {
+  margin-bottom: 1em;
+  line-height: var(--line-height-normal, 1.5);
+}
+
+/* Responsive body text */
+body {
+  /* IE fallback */
+  font-size: 16px;
+  /* Modern browsers */
+  font-size: clamp(1rem, 1.2vw, 1.125rem);
+}
+
+/* Text utilities */
+.text-xs { 
+  font-size: 12px; 
+  font-size: var(--font-size-xs, 0.75rem); 
+}
+.text-sm { 
+  font-size: 14px; 
+  font-size: var(--font-size-sm, 0.875rem); 
+}
+.text-base { 
+  font-size: 16px; 
+  font-size: var(--font-size-base, 1rem); 
+}
+.text-lg { 
+  font-size: 18px; 
+  font-size: var(--font-size-lg, 1.125rem); 
+}
+.text-xl { 
+  font-size: 20px; 
+  font-size: var(--font-size-xl, 1.25rem); 
+}
+
+/* Weight utilities */
+.font-light { font-weight: 300; }
+.font-normal { font-weight: 400; }
+.font-medium { font-weight: 500; }
+.font-semibold { font-weight: 600; }
+.font-bold { font-weight: 700; }
+
+/* Line height utilities */
+.leading-tight { line-height: 1.25; }
+.leading-normal { line-height: 1.5; }
+.leading-loose { line-height: 1.75; }
+
+/* Links */
+a {
+  color: #0066cc;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: #0052a3;
+}
+
+a:focus {
+  outline: 2px solid #0066cc;
+  outline-offset: 2px;
+}
+
+/* Lists */
+ul, ol {
+  margin-left: 1.5em;
+  margin-bottom: 1em;
+}
+
+li {
+  margin-bottom: 0.25em;
+}
+
+/* Code */
+code, pre {
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  font-size: 0.9em;
+  background-color: #f5f5f5;
+  padding: 0.125em 0.25em;
+  border-radius: 3px;
+}
+
+pre {
+  padding: 1em;
+  overflow-x: auto;
+  line-height: 1.4;
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #e5e5e5;
+  padding-left: 1em;
+  margin: 1em 0;
+  font-style: italic;
+  color: #666;
+}
+
+/* HR */
+hr {
+  border: 0;
+  height: 1px;
+  background-color: #e5e5e5;
+  margin: 2em 0;
+}
+
+/* ==========================================================================
+   IE-specific fixes and fallbacks
+   ========================================================================== */
+
+/* IE9 viewport fix */
+@-ms-viewport {
+  width: device-width;
+}
+
+/* IE8 and below display fixes */
+article, aside, details, figcaption, figure, 
+footer, header, main, nav, section {
+  display: block;
+}
+
+/* IE8 list-style position fix */
+ul, ol {
+  list-style-position: inside;
+  list-style-position: outside;
+}
+
+/* IE input placeholder styling */
+:-ms-input-placeholder {
+  color: #999;
+  opacity: 1;
+}
+
+/* Clear floats utility for IE */
+.clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
