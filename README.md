@@ -30,6 +30,7 @@ A dedicated and self-taught web developer with expertise in PHP, JavaScript/Node
 ---
 
 ### ⚡ Recent Activity
+<!--START_SECTION:activity-->
 
 <!---
 - 👋 Hi, I’m @CodeWithSushil
