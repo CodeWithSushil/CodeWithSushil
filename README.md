@@ -1,7 +1,6 @@
 ### **_Sushil Kumar_** Here 👋
 
 [![Twitter](https://img.shields.io/twitter/follow/CodeSushil?label=Follow)](https://twitter.com/intent/follow?screen_name=CodeSushil)
-[![Linkedin](https://img.shields.io/badge/-Connect-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sushilkumbhar/)](https://www.linkedin.com/in/sushilkumbhar/)
 ![Profile Views](https://komarev.com/ghpvc/?username=CodeWithSushil&label=👁️)
 
 ### Join PHP/Laravel community
