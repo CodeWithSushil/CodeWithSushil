@@ -28,6 +28,9 @@ A dedicated and self-taught web developer with expertise in PHP, JavaScript/Node
 ---
 ![Total Installs](https://img.shields.io/endpoint?color=green&logo=google-play&logoColor=blue&url=https%3A%2F%2Fplay.cuzi.workers.dev%2Fplay%3Fi%3Dcom.foxdebug.acodefree%26gl%3DUS%26hl%3Den%26l%3DAndroid%26m%3D%255BVersion%253A%24version%255D%2520%255BDownloads%253A%2520%2524totalinstalls%255D)
 ---
+
+### ⚡ Recent Activity
+
 <!---
 - 👋 Hi, I’m @CodeWithSushil
 - 👀 I’m interested in ...
