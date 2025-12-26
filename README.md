@@ -8,11 +8,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.3.0](https://github.com/CodeWithSushil/TEMP-Server/releases/tag/v1.3.0) in [CodeWithSushil/TEMP-Server](https://github.com/CodeWithSushil/TEMP-Server)
-2. ❌ Merged PR [#73](undefined) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-3. 💪 Opened PR [#73](undefined) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-4. ❌ Merged PR [#72](undefined) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-5. 💪 Opened PR [#72](undefined) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+1. 🚀 Published release [v1.4.0](https://github.com/CodeWithSushil/TEMP-Server/releases/tag/v1.4.0) in [CodeWithSushil/TEMP-Server](https://github.com/CodeWithSushil/TEMP-Server)
+2. 🚀 Published release [v1.3.0](https://github.com/CodeWithSushil/TEMP-Server/releases/tag/v1.3.0) in [CodeWithSushil/TEMP-Server](https://github.com/CodeWithSushil/TEMP-Server)
+3. ❌ Merged PR [#73](undefined) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+4. 💪 Opened PR [#73](undefined) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+5. ❌ Merged PR [#72](undefined) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
 <!--END_SECTION:activity-->
 
 <!---
