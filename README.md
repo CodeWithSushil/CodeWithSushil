@@ -8,11 +8,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/thapatechnical/urlshortener/pull/6) in [thapatechnical/urlshortener](https://github.com/thapatechnical/urlshortener)
-2. 🚀 Published release [v1.4.0](https://github.com/CodeWithSushil/TEMP-Server/releases/tag/v1.4.0) in [CodeWithSushil/TEMP-Server](https://github.com/CodeWithSushil/TEMP-Server)
-3. 🚀 Published release [v1.3.0](https://github.com/CodeWithSushil/TEMP-Server/releases/tag/v1.3.0) in [CodeWithSushil/TEMP-Server](https://github.com/CodeWithSushil/TEMP-Server)
-4. 🎉 Merged PR [#73](https://github.com/Ashishkumbhar01/supabase-php/pull/73) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-5. 💪 Opened PR [#73](https://github.com/Ashishkumbhar01/supabase-php/pull/73) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+1. ❌ Closed PR [#6](https://github.com/thapatechnical/urlshortener/pull/6) in [thapatechnical/urlshortener](https://github.com/thapatechnical/urlshortener)
+2. ℹ️ Reopened PR [#6](https://github.com/thapatechnical/urlshortener/pull/6) in [thapatechnical/urlshortener](https://github.com/thapatechnical/urlshortener)
+3. ❌ Closed PR [#6](https://github.com/thapatechnical/urlshortener/pull/6) in [thapatechnical/urlshortener](https://github.com/thapatechnical/urlshortener)
+4. 💪 Opened PR [#6](https://github.com/thapatechnical/urlshortener/pull/6) in [thapatechnical/urlshortener](https://github.com/thapatechnical/urlshortener)
+5. 🚀 Published release [v1.4.0](https://github.com/CodeWithSushil/TEMP-Server/releases/tag/v1.4.0) in [CodeWithSushil/TEMP-Server](https://github.com/CodeWithSushil/TEMP-Server)
 <!--END_SECTION:activity-->
 
 <!---
