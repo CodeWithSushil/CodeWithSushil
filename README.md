@@ -8,11 +8,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#28139](https://github.com/termux/termux-packages/issues/28139#issuecomment-3822574078) in [termux/termux-packages](https://github.com/termux/termux-packages)
-2. ❌ Closed PR [#33](https://github.com/codebysushil/Laravel-12/pull/33) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
-3. ❌ Closed PR [#32](https://github.com/codebysushil/Laravel-12/pull/32) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
-4. ❌ Closed PR [#34](https://github.com/codebysushil/Laravel-12/pull/34) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
-5. ❗ Opened issue [#28139](https://github.com/termux/termux-packages/issues/28139) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 🎉 Merged PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
+2. 💪 Opened PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
+3. 🗣 Commented on [#28139](https://github.com/termux/termux-packages/issues/28139#issuecomment-3822574078) in [termux/termux-packages](https://github.com/termux/termux-packages)
+4. ❌ Closed PR [#33](https://github.com/codebysushil/Laravel-12/pull/33) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
+5. ❌ Closed PR [#32](https://github.com/codebysushil/Laravel-12/pull/32) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
 <!--END_SECTION:activity-->
 
 <!---
