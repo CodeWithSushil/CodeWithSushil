@@ -8,9 +8,9 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
-2. 💪 Opened PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
-3. 🗣 Commented on [#28139](https://github.com/termux/termux-packages/issues/28139#issuecomment-3822574078) in [termux/termux-packages](https://github.com/termux/termux-packages)
+1. 💪 Opened PR [#1116](https://github.com/ratchetphp/Ratchet/pull/1116) in [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet)
+2. 🎉 Merged PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
+3. 💪 Opened PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
 4. ❌ Closed PR [#33](https://github.com/codebysushil/Laravel-12/pull/33) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
 5. ❌ Closed PR [#32](https://github.com/codebysushil/Laravel-12/pull/32) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
 <!--END_SECTION:activity-->
