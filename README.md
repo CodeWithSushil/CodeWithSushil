@@ -8,8 +8,8 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1116](https://github.com/ratchetphp/Ratchet/pull/1116) in [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet)
-2. 🎉 Merged PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
+1. 🚀 Published release [v1.0.1](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.0.1) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+2. 🚀 Published release [v1.0.0](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.0.0) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
 3. 💪 Opened PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
 4. ❌ Closed PR [#33](https://github.com/codebysushil/Laravel-12/pull/33) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
 5. ❌ Closed PR [#32](https://github.com/codebysushil/Laravel-12/pull/32) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
