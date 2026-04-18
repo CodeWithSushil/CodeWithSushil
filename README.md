@@ -8,11 +8,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.0.1) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
-2. 🚀 Published release [v1.0.0](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.0.0) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
-3. 💪 Opened PR [#5](https://github.com/codebysushil/Auth/pull/5) in [codebysushil/Auth](https://github.com/codebysushil/Auth)
-4. ❌ Closed PR [#33](https://github.com/codebysushil/Laravel-12/pull/33) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
-5. ❌ Closed PR [#32](https://github.com/codebysushil/Laravel-12/pull/32) in [codebysushil/Laravel-12](https://github.com/codebysushil/Laravel-12)
+1. 🚀 Published release [v1.2.0](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.0) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+2. 🚀 Published release [v1.1.1](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.1.1) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+3. 🚀 Published release [v1.1.0](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.1.0) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+4. 🚀 Published release [v1.0.1](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.0.1) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+5. 🚀 Published release [v1.0.0](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.0.0) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
 <!--END_SECTION:activity-->
 
 <!---
