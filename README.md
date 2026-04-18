@@ -8,11 +8,11 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.2.5](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.5) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
-2. 🚀 Published release [v1.2.4](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.4) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
-3. 🚀 Published release [v1.2.3](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/1.2.3) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
-4. 🚀 Published release [v1.2.2](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.2) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
-5. 🚀 Published release [v1.2.1](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.1) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+1. 🚀 Published release [v1.3.0](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.3.0) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+2. 🚀 Published release [v1.2.8](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.8) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+3. 🚀 Published release [v1.2.7](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.7) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+4. 🚀 Published release [v1.2.6](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.6) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+5. 🚀 Published release [v1.2.5](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v1.2.5) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
 <!--END_SECTION:activity-->
 
 <!---
