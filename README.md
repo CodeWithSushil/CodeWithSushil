@@ -8,10 +8,10 @@
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Hurricanephp/Hurricane/pull/7) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
-2. 💪 Opened PR [#7](https://github.com/Hurricanephp/Hurricane/pull/7) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
-3. 🚀 Published release [v0.0.0](https://github.com/CodeWithSushil/brushcss/releases/tag/v1) in [CodeWithSushil/brushcss](https://github.com/CodeWithSushil/brushcss)
-4. 🚀 Published release [v2.2](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v2.2) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
+1. 🚀 Published release [v0.0.1](https://github.com/codebysushil/SnapX/releases/tag/v0.0.1) in [codebysushil/SnapX](https://github.com/codebysushil/SnapX)
+2. 🎉 Merged PR [#7](https://github.com/Hurricanephp/Hurricane/pull/7) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
+3. 💪 Opened PR [#7](https://github.com/Hurricanephp/Hurricane/pull/7) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
+4. 🚀 Published release [v0.0.0](https://github.com/CodeWithSushil/brushcss/releases/tag/v1) in [CodeWithSushil/brushcss](https://github.com/CodeWithSushil/brushcss)
 5. 🚀 Published release [v2.1](https://github.com/CodeWithSushil/setup-hhvm/releases/tag/v2.1) in [CodeWithSushil/setup-hhvm](https://github.com/CodeWithSushil/setup-hhvm)
 <!--END_SECTION:activity-->
 
