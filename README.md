@@ -60,7 +60,7 @@ Current Goal: Building scalable developer tools 🚀
 
 
 ## 🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,mysql,mongodb,html,css,tailwind,git,github,linux,vscode" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,mysql,mongodb,html,css,tailwind,git,github,linux,vscode,neovim,docker" /> </p>
 
 
 ## 📊 Advanced GitHub Analytics
@@ -73,25 +73,36 @@ Current Goal: Building scalable developer tools 🚀
 
 ---
 
-🔥 GitHub Contribution Analytics
+### 🔥 GitHub Contribution Analytics
 <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=CodeWithSushil&theme=tokyo-night&hide_border=true&area=true" /> </p>
 
 ---
 
-📅 Yearly Contribution Stats
+### 📅 Yearly Contribution Stats
 <p align="center"> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CodeWithSushil&theme=tokyonight" /> <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CodeWithSushil&theme=tokyonight&utcOffset=5.30" /> </p>
 
 ---
 
-📌 Dynamic Developer Summary
+### 📌 Dynamic Developer Summary
 <p align="center"> <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CodeWithSushil&theme=tokyonight" /> </p>
 
 ---
 
-📊 Extra API Based Stats
+### 📊 Extra API Based Stats
+
 <p align="center"> <img src="https://img.shields.io/github/followers/CodeWithSushil?style=for-the-badge&logo=github" /> <img src="https://img.shields.io/github/stars/CodeWithSushil?style=for-the-badge" /> <img src="https://img.shields.io/github/last-commit/CodeWithSushil/CodeWithSushil?style=for-the-badge" /> <img src="https://img.shields.io/github/commit-activity/y/CodeWithSushil/CodeWithSushil?style=for-the-badge" /> </p>
-🌐 Connect With Me
-<p align="center"> <a href="https://github.com/CodeWithSushil"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://twitter.com/CodeSushil"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> <a href="mailto:your-email@example.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a> </p>
+
+### 🌐 Connect With Me
+
+<p align="center"> <a href="https://github.com/CodeWithSushil"> <img src="https://skillicons.dev/icons?i=github" /> </a> <a href="https://twitter.com/CodeSushil"> <img src="https://skillicons.dev/icons?i=twitter" /> </a> <a href="mailto:your-email@example.com"> <img src="https://skillicons.dev/icons?i=gmail" /> </a>
+<a href="https://youtube.com/@Code-With-Sushil">
+<img alt="YouTube" src="https://skillicons.dev/icons?i=YouTube" />
+</a>
+
+<a href="https://linkedin.com/codewithsushil">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
 
 ---
 
