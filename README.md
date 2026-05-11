@@ -60,7 +60,9 @@ Current Goal: Building scalable developer tools 🚀
 
 
 ## 🚀 Tech Stack
-<p align="center"> <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,mysql,mongodb,html,css,tailwind,git,github,linux,vscode,neovim,docker" /> </p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=php,go,js,ts,nodejs,express,laravel,jquery,vuejs,html,css,scss,tailwind,mysql,mongodb,sqlite,postgres,git,github,linux,vscode,neovim,docker,npm,yarn,pnpm" />
+</p>
 
 
 ## 📊 Advanced GitHub Analytics
