@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/CodeWithSushil/CodeWithSushil/pull/1#issuecomment-4415513811) in [CodeWithSushil/CodeWithSushil](https://github.com/CodeWithSushil/CodeWithSushil)
-2. 🚀 Published release [v0.0.1](https://github.com/codebysushil/SnapX/releases/tag/v0.0.1) in [codebysushil/SnapX](https://github.com/codebysushil/SnapX)
-3. 🎉 Merged PR [#7](https://github.com/Hurricanephp/Hurricane/pull/7) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
-4. 💪 Opened PR [#7](https://github.com/Hurricanephp/Hurricane/pull/7) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
-5. 🚀 Published release [v0.0.0](https://github.com/CodeWithSushil/brushcss/releases/tag/v1) in [CodeWithSushil/brushcss](https://github.com/CodeWithSushil/brushcss)
+1. 🎉 Merged PR [#3](https://github.com/codebysushil/supabase-php/pull/3) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
+2. 💪 Opened PR [#3](https://github.com/codebysushil/supabase-php/pull/3) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
+3. 🎉 Merged PR [#2](https://github.com/codebysushil/supabase-php/pull/2) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
+4. 💪 Opened PR [#2](https://github.com/codebysushil/supabase-php/pull/2) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
+5. 🚀 Published release [v0.0.2](https://github.com/codebysushil/supabase-php/releases/tag/v0.0.2) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
 <!--END_SECTION:activity-->
 
 ---
