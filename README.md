@@ -113,8 +113,8 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1116](https://github.com/ratchetphp/Ratchet/pull/1116#issuecomment-4671411937) in [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet)
-2. 🚀 Published release [v0.0.1](https://github.com/codebysushil/slim-skeleton/releases/tag/V0.0.1) in [codebysushil/slim-skeleton](https://github.com/codebysushil/slim-skeleton)
+1. 🚀 Published release [v0.0.1](https://github.com/codebysushil/login-registration/releases/tag/v0.0.1) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
+2. 🗣 Commented on [#1116](https://github.com/ratchetphp/Ratchet/pull/1116#issuecomment-4671411937) in [ratchetphp/Ratchet](https://github.com/ratchetphp/Ratchet)
 3. 🎉 Merged PR [#3](https://github.com/codebysushil/supabase-php/pull/3) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
 4. 💪 Opened PR [#3](https://github.com/codebysushil/supabase-php/pull/3) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
 5. 🎉 Merged PR [#2](https://github.com/codebysushil/supabase-php/pull/2) in [codebysushil/supabase-php](https://github.com/codebysushil/supabase-php)
