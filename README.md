@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.4](https://github.com/codebysushil/login-registration/releases/tag/v0.0.4) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
-2. 🚀 Published release [v2.0.0](https://github.com/CodeWithSushil/supabase-client/releases/tag/v2.0.0) in [CodeWithSushil/supabase-client](https://github.com/CodeWithSushil/supabase-client)
-3. 🚀 Published release [v0.0.1](https://github.com/CodeWithSushil/ratchet/releases/tag/v0.0.1) in [CodeWithSushil/ratchet](https://github.com/CodeWithSushil/ratchet)
-4. 🚀 Published release [v0.0.3](https://github.com/codebysushil/login-registration/releases/tag/v0.0.3) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
-5. 🚀 Published release [v0.0.2](https://github.com/codebysushil/login-registration/releases/tag/v0.0.2) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
+1. 🚀 Published release [v0.0.5](https://github.com/codebysushil/login-registration/releases/tag/v0.0.5) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
+2. 🚀 Published release [v0.0.4](https://github.com/codebysushil/login-registration/releases/tag/v0.0.4) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
+3. 🚀 Published release [v2.0.0](https://github.com/CodeWithSushil/supabase-client/releases/tag/v2.0.0) in [CodeWithSushil/supabase-client](https://github.com/CodeWithSushil/supabase-client)
+4. 🚀 Published release [v0.0.1](https://github.com/CodeWithSushil/ratchet/releases/tag/v0.0.1) in [CodeWithSushil/ratchet](https://github.com/CodeWithSushil/ratchet)
+5. 🚀 Published release [v0.0.3](https://github.com/codebysushil/login-registration/releases/tag/v0.0.3) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
 <!--END_SECTION:activity-->
 
 ---
