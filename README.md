@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [EmberCSS: v0.0.1](https://github.com/codebysushil/embercss/releases/tag/v0.0.1) in [codebysushil/embercss](https://github.com/codebysushil/embercss)
-2. 🚀 Published release [v0.0.5](https://github.com/codebysushil/login-registration/releases/tag/v0.0.5) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
-3. 🚀 Published release [v0.0.4](https://github.com/codebysushil/login-registration/releases/tag/v0.0.4) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
-4. 🚀 Published release [v2.0.0](https://github.com/CodeWithSushil/supabase-client/releases/tag/v2.0.0) in [CodeWithSushil/supabase-client](https://github.com/CodeWithSushil/supabase-client)
-5. 🚀 Published release [v0.0.3](https://github.com/codebysushil/login-registration/releases/tag/v0.0.3) in [codebysushil/login-registration](https://github.com/codebysushil/login-registration)
+1. ℹ️ Labeled PR [#11](https://github.com/CodeWithSushil/sushilkumar/pull/11) in [CodeWithSushil/sushilkumar](https://github.com/CodeWithSushil/sushilkumar)
+2. ℹ️ Assigned PR [#11](https://github.com/CodeWithSushil/sushilkumar/pull/11) in [CodeWithSushil/sushilkumar](https://github.com/CodeWithSushil/sushilkumar)
+3. 🎉 Merged PR [#11](https://github.com/CodeWithSushil/sushilkumar/pull/11) in [CodeWithSushil/sushilkumar](https://github.com/CodeWithSushil/sushilkumar)
+4. 💪 Opened PR [#11](https://github.com/CodeWithSushil/sushilkumar/pull/11) in [CodeWithSushil/sushilkumar](https://github.com/CodeWithSushil/sushilkumar)
+5. 🚀 Published release [EmberCSS: v0.0.1](https://github.com/codebysushil/embercss/releases/tag/v0.0.1) in [codebysushil/embercss](https://github.com/codebysushil/embercss)
 <!--END_SECTION:activity-->
 
 ---
