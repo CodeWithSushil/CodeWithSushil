@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-2. 💪 Opened PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-3. 💪 Opened PR [#74](https://github.com/Ashishkumbhar01/supabase-php/pull/74) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-4. 🚀 Published release [v2.0.1](https://github.com/CodeWithSushil/supabase-client/releases/tag/v2.0.1) in [CodeWithSushil/supabase-client](https://github.com/CodeWithSushil/supabase-client)
-5. ℹ️ Labeled PR [#11](https://github.com/CodeWithSushil/sushilkumar/pull/11) in [CodeWithSushil/sushilkumar](https://github.com/CodeWithSushil/sushilkumar)
+1. 💪 Opened PR [#79](https://github.com/Ashishkumbhar01/supabase-php/pull/79) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+2. 🎉 Merged PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+3. 💪 Opened PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+4. 💪 Opened PR [#74](https://github.com/Ashishkumbhar01/supabase-php/pull/74) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+5. 🚀 Published release [v2.0.1](https://github.com/CodeWithSushil/supabase-client/releases/tag/v2.0.1) in [CodeWithSushil/supabase-client](https://github.com/CodeWithSushil/supabase-client)
 <!--END_SECTION:activity-->
 
 ---
