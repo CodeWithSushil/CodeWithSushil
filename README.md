@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/CodeWithSushil/xenophp/releases/tag/v0.0.3) in [CodeWithSushil/xenophp](https://github.com/CodeWithSushil/xenophp)
-2. 💪 Opened PR [#79](https://github.com/Ashishkumbhar01/supabase-php/pull/79) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-3. 🎉 Merged PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-4. 💪 Opened PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
-5. 💪 Opened PR [#74](https://github.com/Ashishkumbhar01/supabase-php/pull/74) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+1. 🚀 Published release [v0.0.0](https://github.com/CodeWithSushil/svg-generator/releases/tag/v0.0.0) in [CodeWithSushil/svg-generator](https://github.com/CodeWithSushil/svg-generator)
+2. 🚀 Published release [v0.0.3](https://github.com/CodeWithSushil/xenophp/releases/tag/v0.0.3) in [CodeWithSushil/xenophp](https://github.com/CodeWithSushil/xenophp)
+3. 💪 Opened PR [#79](https://github.com/Ashishkumbhar01/supabase-php/pull/79) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+4. 🎉 Merged PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
+5. 💪 Opened PR [#78](https://github.com/Ashishkumbhar01/supabase-php/pull/78) in [Ashishkumbhar01/supabase-php](https://github.com/Ashishkumbhar01/supabase-php)
 <!--END_SECTION:activity-->
 
 ---
