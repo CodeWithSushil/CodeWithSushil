@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.1.1](https://github.com/CodeWithSushil/android-binary/releases/tag/v1.1.1) in [CodeWithSushil/android-binary](https://github.com/CodeWithSushil/android-binary)
-2. 🚀 Published release [v1.1.0](https://github.com/CodeWithSushil/android-binary/releases/tag/v1.1.0) in [CodeWithSushil/android-binary](https://github.com/CodeWithSushil/android-binary)
-3. 🚀 Published release [v1.0.0](https://github.com/CodeWithSushil/android-binary/releases/tag/v1.0.0) in [CodeWithSushil/android-binary](https://github.com/CodeWithSushil/android-binary)
-4. 🚀 Published release [v0.0.1](https://github.com/CodeWithSushil/android-binary/releases/tag/v0.0.1) in [CodeWithSushil/android-binary](https://github.com/CodeWithSushil/android-binary)
-5. 💪 Opened PR [#1344](https://github.com/parcel-bundler/lightningcss/pull/1344) in [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)
+1. 💪 Opened PR [#1344](https://github.com/parcel-bundler/lightningcss/pull/1344) in [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)
+2. 🚀 Published release [v0.0.2](https://github.com/codebysushil/slim-skeleton/releases/tag/v0.0.2) in [codebysushil/slim-skeleton](https://github.com/codebysushil/slim-skeleton)
+3. 🚀 Published release [v1.0.0](https://github.com/CodeWithSushil/svg-generator/releases/tag/v1.0.0) in [CodeWithSushil/svg-generator](https://github.com/CodeWithSushil/svg-generator)
+4. 🚀 Published release [v0.0.0](https://github.com/CodeWithSushil/svg-generator/releases/tag/v0.0.0) in [CodeWithSushil/svg-generator](https://github.com/CodeWithSushil/svg-generator)
+5. 🚀 Published release [v0.0.3](https://github.com/CodeWithSushil/xenophp/releases/tag/v0.0.3) in [CodeWithSushil/xenophp](https://github.com/CodeWithSushil/xenophp)
 <!--END_SECTION:activity-->
 
 ---
