@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.3](https://github.com/cloverphp/framework/releases/tag/v0.0.3) in [cloverphp/framework](https://github.com/cloverphp/framework)
-2. 🚀 Published release [v0.0.3](https://github.com/codebysushil/slim-skeleton/releases/tag/v0.0.3) in [codebysushil/slim-skeleton](https://github.com/codebysushil/slim-skeleton)
-3. 🔒 Closed issue [#28139](https://github.com/termux/termux-packages/issues/28139) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. 💪 Opened PR [#1344](https://github.com/parcel-bundler/lightningcss/pull/1344) in [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)
-5. 🚀 Published release [v0.0.2](https://github.com/codebysushil/slim-skeleton/releases/tag/v0.0.2) in [codebysushil/slim-skeleton](https://github.com/codebysushil/slim-skeleton)
+1. 🚀 Published release [v0.0.2](https://github.com/cloverphp/clover/releases/tag/v0.0.2) in [cloverphp/clover](https://github.com/cloverphp/clover)
+2. 🔒 Closed issue [#14](https://github.com/cloverphp/clover/issues/14) in [cloverphp/clover](https://github.com/cloverphp/clover)
+3. 🗣 Commented on [#14](https://github.com/cloverphp/clover/issues/14#issuecomment-5831205783) in [cloverphp/clover](https://github.com/cloverphp/clover)
+4. 🔒 Closed issue [#14](https://github.com/cloverphp/clover/issues/14) in [cloverphp/clover](https://github.com/cloverphp/clover)
+5. 🚀 Published release [v0.0.3](https://github.com/cloverphp/framework/releases/tag/v0.0.3) in [cloverphp/framework](https://github.com/cloverphp/framework)
 <!--END_SECTION:activity-->
 
 ---
