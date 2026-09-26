@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.0.2](https://github.com/cloverphp/clover/releases/tag/v0.0.2) in [cloverphp/clover](https://github.com/cloverphp/clover)
-2. 🔒 Closed issue [#14](https://github.com/cloverphp/clover/issues/14) in [cloverphp/clover](https://github.com/cloverphp/clover)
-3. 🗣 Commented on [#14](https://github.com/cloverphp/clover/issues/14#issuecomment-5831205783) in [cloverphp/clover](https://github.com/cloverphp/clover)
-4. 🔒 Closed issue [#14](https://github.com/cloverphp/clover/issues/14) in [cloverphp/clover](https://github.com/cloverphp/clover)
-5. 🚀 Published release [v0.0.3](https://github.com/cloverphp/framework/releases/tag/v0.0.3) in [cloverphp/framework](https://github.com/cloverphp/framework)
+1. ❌ Closed PR [#10](https://github.com/Hurricanephp/Hurricane/pull/10) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
+2. ❌ Closed PR [#8](https://github.com/Hurricanephp/Hurricane/pull/8) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
+3. ❌ Closed PR [#9](https://github.com/Hurricanephp/Hurricane/pull/9) in [Hurricanephp/Hurricane](https://github.com/Hurricanephp/Hurricane)
+4. 🚀 Published release [v0.0.2](https://github.com/cloverphp/clover/releases/tag/v0.0.2) in [cloverphp/clover](https://github.com/cloverphp/clover)
+5. 🔒 Closed issue [#14](https://github.com/cloverphp/clover/issues/14) in [cloverphp/clover](https://github.com/cloverphp/clover)
 <!--END_SECTION:activity-->
 
 ---
