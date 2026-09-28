@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v1.0.1](https://github.com/CodeWithSushil/lightningcss/releases/tag/v1.0.1) in [CodeWithSushil/lightningcss](https://github.com/CodeWithSushil/lightningcss)
-2. ❌ Closed PR [#1344](https://github.com/parcel-bundler/lightningcss/pull/1344) in [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)
-3. 🎉 Merged PR [#2](https://github.com/codebysushil/pulse/pull/2) in [codebysushil/pulse](https://github.com/codebysushil/pulse)
-4. 💪 Opened PR [#2](https://github.com/codebysushil/pulse/pull/2) in [codebysushil/pulse](https://github.com/codebysushil/pulse)
-5. 🎉 Merged PR [#1](https://github.com/codebysushil/pulse/pull/1) in [codebysushil/pulse](https://github.com/codebysushil/pulse)
+1. 💪 Opened PR [#1353](https://github.com/parcel-bundler/lightningcss/pull/1353) in [parcel-bundler/lightningcss](https://github.com/parcel-bundler/lightningcss)
+2. 🎉 Merged PR [#1](https://github.com/CodeWithSushil/lightningcss/pull/1) in [CodeWithSushil/lightningcss](https://github.com/CodeWithSushil/lightningcss)
+3. 💪 Opened PR [#1](https://github.com/CodeWithSushil/lightningcss/pull/1) in [CodeWithSushil/lightningcss](https://github.com/CodeWithSushil/lightningcss)
+4. 🚀 Published release [v1.0.3](https://github.com/CodeWithSushil/lightningcss/releases/tag/v1.0.3) in [CodeWithSushil/lightningcss](https://github.com/CodeWithSushil/lightningcss)
+5. 🚀 Published release [v1.0.2](https://github.com/CodeWithSushil/lightningcss/releases/tag/v1.0.2) in [CodeWithSushil/lightningcss](https://github.com/CodeWithSushil/lightningcss)
 <!--END_SECTION:activity-->
 
 ---
