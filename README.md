@@ -113,11 +113,11 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
+1. 🚀 Published release [v0.0.1](https://github.com/Supabase-PHP/supabase/releases/tag/v0.0.1) in [Supabase-PHP/supabase](https://github.com/Supabase-PHP/supabase)
 2. ℹ️ Labeled issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
-3. ℹ️ Assigned issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
+3. ℹ️ Labeled issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
 4. ℹ️ Assigned issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
-5. ℹ️ Labeled issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
+5. ℹ️ Assigned issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
 <!--END_SECTION:activity-->
 
 ---
