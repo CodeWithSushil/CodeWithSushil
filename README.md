@@ -113,9 +113,9 @@ Current Goal: Building scalable developer tools 🚀
 
 ### ⚡ Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2105](https://github.com/php/web-php/pull/2105#issuecomment-7090878519) in [php/web-php](https://github.com/php/web-php)
-2. 🚀 Published release [v0.0.1](https://github.com/Supabase-PHP/supabase/releases/tag/v0.0.1) in [Supabase-PHP/supabase](https://github.com/Supabase-PHP/supabase)
-3. ℹ️ Labeled issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
+1. 🚀 Published release [v1.0.0](https://github.com/CodeWithSushil/supabase-client/releases/tag/v1.0.0) in [CodeWithSushil/supabase-client](https://github.com/CodeWithSushil/supabase-client)
+2. 🗣 Commented on [#2105](https://github.com/php/web-php/pull/2105#issuecomment-7090878519) in [php/web-php](https://github.com/php/web-php)
+3. 🚀 Published release [v0.0.1](https://github.com/Supabase-PHP/supabase/releases/tag/v0.0.1) in [Supabase-PHP/supabase](https://github.com/Supabase-PHP/supabase)
 4. ℹ️ Assigned issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
 5. ℹ️ Assigned issue [#3](https://github.com/PigoenPHP/gitter/issues/3) in [PigoenPHP/gitter](https://github.com/PigoenPHP/gitter)
 <!--END_SECTION:activity-->
